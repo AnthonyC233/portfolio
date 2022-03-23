@@ -39,7 +39,7 @@ nav a {
 }
 
 .image {
-    background-image: url(./Assets/gojo.png);
+    background-image: url(./gojo.png);
     background-size: cover;
     min-height: 10em;
     background-position: center;
@@ -126,24 +126,24 @@ nav a {
 }
 
 .Homework-Refractor {
-    background-image: url(./Assets/homework.png);
+    background-image: url(./homework.png);
 
 }
 
 .Prework{
-    background-image: url(./Assets/prework.png);
+    background-image: url(./prework.png);
 }
 
 .Homework-1 {
-    background-image: url(./Assets/homework.png);
+    background-image: url(./homework.png);
 }
 
 .Classwork {
-    background-image:url(./Assets/classwork.png);
+    background-image:url(./classwork.png);
 }
 
 .Brokencode{
-    background-image: url(./Assets/brokencode.png);
+    background-image: url(./brokencode.png);
 }
 
 .contact-info {
